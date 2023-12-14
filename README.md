@@ -11,7 +11,7 @@
 ## :pushpin: Contact
 - 이메일: jeongyh.jyh@gmail.com
 - 블로그: 
-- 깃헙: https://github.com/youneee
+- 깃헙: https://github.com/youneeee
 
 </br>
 
